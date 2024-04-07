@@ -1,6 +1,6 @@
 # Sia Network Utilisation 2017-2023
 
-Rescue of the missing [SiaStats](https://siastats.info) data. 
+Rescue of parts of the missing [SiaStats](https://siastats.info) data. Identical files are symlinked to their originals.
 
 **Verification.**
 
