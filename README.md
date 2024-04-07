@@ -8,7 +8,7 @@ Files in this repo are stored as NAME-TIMESTAMP.json.
 
 `https://github.com/NickSdot/historical-siastats/blob/main/NAME-TIMESTAMP.json`
 
-👉 https: //github.com/NickSdot/historical-siastats/blob/main/storage-20230925125446.json
+👉 https://github.com/NickSdot/historical-siastats/blob/main/storage-20230925125446.json
 
 `https://web.archive.org/web/TIMESTAMP/https://siastats.info/dbs/NAME.json`
 
